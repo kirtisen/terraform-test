@@ -1,4 +1,4 @@
-# terraform-test
+# terraform
 
 > Launch EC2 
 >
